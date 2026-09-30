@@ -44,8 +44,8 @@ library-api/
 ### 1. Клонування репозиторію
 
 ```bash
-git clone https://github.com/your-username/library-api.git
-cd library-api
+git clone https://github.com/OleksiyZaluzhnyi/Lab10_Zaluzhnyi_web.git
+cd Lab10_Zaluzhnyi_web
 ```
 
 ### 2. Встановлення залежностей
